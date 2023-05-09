@@ -1,0 +1,31 @@
+* {
+    font-family: cursive;
+}
+
+h1 {
+
+    color: white;
+    background-color: black;
+
+}
+
+span {
+    color: aqua;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+
+h3 {
+    text-align: right;
+    color: black;
+    background-color: skyblue;
+}
+
+.contact {
+    text-decoration: underline;
+}
